@@ -1,4 +1,5 @@
 == README
+This is from chapter 2 of hartl tutorial, called firstapp it is on heroku and github
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
